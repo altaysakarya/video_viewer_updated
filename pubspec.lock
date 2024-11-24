@@ -107,11 +107,12 @@ packages:
   helpers:
     dependency: "direct main"
     description:
-      name: helpers
-      sha256: d82a48e5acd45e3650af20779cf61326dd9c1aaf729fdab4ae721dc48f28b840
-      url: "https://pub.dev"
-    source: hosted
-    version: "1.2.3"
+      path: "."
+      ref: HEAD
+      resolved-ref: "5307860863d657a4a1680e5f9682fece64432339"
+      url: "https://github.com/altaysakarya/helpers"
+    source: git
+    version: "1.2.0"
   html:
     dependency: transitive
     description:
